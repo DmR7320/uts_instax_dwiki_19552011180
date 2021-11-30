@@ -648,7 +648,7 @@ class _Deskripsi1 extends StatelessWidget {
           Container(
               margin: EdgeInsets.only(left: 15),
               child: Text(
-                "\$ 50.90",
+                "\$ 49.90",
                 style: TextStyle(fontSize: 17, fontWeight: FontWeight.bold),
               )),
           Container(
@@ -1226,7 +1226,7 @@ class _Deskripsi3 extends StatelessWidget {
           Container(
               margin: EdgeInsets.only(left: 15),
               child: Text(
-                "\$ 50.90",
+                "\$ 51.90",
                 style: TextStyle(fontSize: 17, fontWeight: FontWeight.bold),
               )),
           Container(
@@ -1515,7 +1515,7 @@ class _Deskripsi4 extends StatelessWidget {
           Container(
               margin: EdgeInsets.only(left: 15),
               child: Text(
-                "\$ 50.90",
+                "\$ 52.90",
                 style: TextStyle(fontSize: 17, fontWeight: FontWeight.bold),
               )),
           Container(
@@ -1804,7 +1804,7 @@ class _Deskripsi5 extends StatelessWidget {
           Container(
               margin: EdgeInsets.only(left: 15),
               child: Text(
-                "\$ 50.90",
+                "\$ 53.90",
                 style: TextStyle(fontSize: 17, fontWeight: FontWeight.bold),
               )),
           Container(
